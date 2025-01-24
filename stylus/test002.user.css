@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           test
 @namespace      github.com/openstyles/stylus
-@version        1.0.0.0
+@version        1.0.0.1
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
@@ -12,4 +12,7 @@
     
     #main-menu > li:nth-child(10) {pointer-events:none !important;}
     #main-menu > li:nth-child(13) {pointer-events:none !important;}
+    #main-menu > li:nth-child(15) {pointer-events:none !important;}
+    #main-menu > li:nth-child(17) {pointer-events:none !important;}
+    #main-menu > li:nth-child(19) {pointer-events:none !important;}
     }
