@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name           test
+@namespace      github.com/openstyles/stylus
+@version        1.0.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
+@-moz-document URL("https://studio.youtube.com/channel/UC6fjR3etYU-AmpCTL7jHxMQ") {
+    
+    
+    
+    #main-menu > li:nth-child(10) {pointer-events:none !important;}
+    #main-menu > li:nth-child(13) {pointer-events:none !important;}
+    }
