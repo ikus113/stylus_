@@ -12,5 +12,7 @@
     #main-menu > li:nth-child(7) {pointer-events:none !important;}
     #main-menu > li:nth-child(10) {pointer-events:none !important;}
     #main-menu > li:nth-child(13) {pointer-events:none !important;}
+    #main-menu > li:nth-child(16) {pointer-events:none !important;}
+    #main-menu > li:nth-child(19) {pointer-events:none !important;}
 
     }
